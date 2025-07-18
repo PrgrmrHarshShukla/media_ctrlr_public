@@ -14,17 +14,14 @@ Control your media playback with simple hand gestures using your webcam without 
 
 ## 🚀 Getting Started
 
-1. **Download the ZIP**
+1. Download the media_ctrlr ZIP from the releases (latest)
 2. **Extract** it anywhere on your Windows PC
 3. Run the `main.exe` file
 4. Use hand gestures in front of your webcam to control media
 
 
 ## 🛠️ Requirements
-
-- Windows 10 or 11
-- Webcam (built-in or external)
-- No installation needed — just run the `.exe`
+- Webcam
 
 ## 🧠 How it works
 
