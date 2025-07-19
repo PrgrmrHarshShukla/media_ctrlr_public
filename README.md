@@ -15,7 +15,7 @@ Control your media playback with simple hand gestures using your webcam without 
 ## 🚀 Getting Started
 
 1. [Click here to download the tool from Google Drive](https://drive.google.com/file/d/19oe9Dm8pQB4TPjeA53qiaPoaumCJ55Pm/view?usp=drive_link)
-2. Run the `main.exe` file
+2. Run the `main.exe` file with a double click
 3. Use hand gestures in front of your webcam to control media
 
 
